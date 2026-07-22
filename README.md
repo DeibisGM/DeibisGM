@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ## GitHub Streak
 
-<a href="https://git.io/streak-stats">
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="100%" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DeibisGM&theme=dark&border_radius=10&card_width=600&stroke=2C2C2C&background=000000&border=2C2C2C&fire=F97A00&ring=F97A00" alt="GitHub Streak" /></a>
